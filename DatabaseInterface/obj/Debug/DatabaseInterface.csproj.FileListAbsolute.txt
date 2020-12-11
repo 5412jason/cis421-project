@@ -1,0 +1,10 @@
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\bin\Debug\DatabaseInterface.exe.config
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\bin\Debug\DatabaseInterface.exe
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\bin\Debug\DatabaseInterface.pdb
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.csprojAssemblyReference.cache
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.Form1.resources
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.Properties.Resources.resources
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.csproj.GenerateResource.cache
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.csproj.CoreCompileInputs.cache
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.exe
+C:\Users\jnh\Documents\UofM\Fall2020\CIS421\DatabaseInterface\DatabaseInterface\obj\Debug\DatabaseInterface.pdb
